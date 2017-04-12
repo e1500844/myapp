@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: myapp_aihe10
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: e1500844
+Implementation-Vendor-Id: fi.puv.e1500844
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/myapp_aihe10
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
